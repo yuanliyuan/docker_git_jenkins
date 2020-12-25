@@ -8,5 +8,7 @@
     <artifactId>docker_git_jenkins</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <!--  test    -->
+
 
 </project>
