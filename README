@@ -1,0 +1,4 @@
+手动打包,用Docker部署
+    1.clean package 通过idea一键构建镜像
+    2.docker images 查看镜像
+    3.docker run 运行镜像
